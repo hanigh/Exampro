@@ -1,0 +1,26 @@
+{
+  "ques": {
+    "en": "1231",
+    "ar": "qweqw"
+  },
+  "answer": [
+    {
+      "id": "A",
+      "en": "remmen",
+      "ar": ""
+    },
+    {
+      "id": "B",
+      "en": "gas los laten",
+      "ar": ""
+    },
+    {
+      "id": "C",
+      "en": "niets",
+      "ar": ""
+    }
+  ],
+  "correct": "A",
+  "type": "normal",
+  "image": "1"
+}
